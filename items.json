@@ -28,9 +28,9 @@
         },
         {
             "name": "Microsoft Office",
-            "url": "/MS_Office_Professional_Plus_2016_x64_Ru_Setup.iso",
+            "url": "https://cdn.soft-download.ru?s=wIK1qDkamaVPkMsttcXYJw&pf=MS_Office_Professional_Plus_2016_x64_Ru_Setup.iso&pt=Microsoft Office 2016 Windows&src=softcatalog.io&ref=&cid=1647515379.1702677384",
             "img_url": "img/ico/office.svg",
-            "isDirectLink": false
+            "isDirectLink": true
         },
         {
             "name": "1.1.1.1 WARP VPN",
