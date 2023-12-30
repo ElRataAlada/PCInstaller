@@ -2,19 +2,19 @@
     "browsers": [
         {
             "name": "Google Chrome",
-            "img_url": "/img/ico/chrome.svg",
+            "img_url": "img/ico/chrome.svg",
             "url": "https://dl.google.com/tag/s/appguid%3D%7B8A69D345-D564-463C-AFF1-A69D9E530F96%7D%26iid%3D%7BB64EB117-DC0B-1670-1A31-63725F9FC664%7D%26lang%3Duk%26browser%3D5%26usagestats%3D1%26appname%3DGoogle%2520Chrome%26needsadmin%3Dprefers%26ap%3Dx64-stable-statsdef_1%26installdataindex%3Dempty/update2/installers/ChromeSetup.exe",
             "isDirectLink": true
         },
         {
             "name": "Firefox",
-            "img_url": "/img/ico/firefox.svg",
+            "img_url": "img/ico/firefox.svg",
             "url": "https://download.mozilla.org/?product=firefox-stub&os=win&lang=ru",
             "isDirectLink": true
         },
         {
             "name": "Opera",
-            "img_url": "/img/ico/opera.svg",
+            "img_url": "img/ico/opera.svg",
             "url": "https://ftp.opera.com/pub/opera_gx/100.0.4815.44/win/Opera_GX_100.0.4815.44_Setup.exe",
             "isDirectLink": true
         }
@@ -22,14 +22,14 @@
     "programs": [
         {
             "name": "Spotify",
-            "img_url": "/img/ico/spotify.svg",
+            "img_url": "img/ico/spotify.svg",
             "url": "https://download.scdn.co/SpotifySetup.exe",
             "isDirectLink": true
         },
         {
             "name": "Microsoft Office",
             "url": "/MS_Office_Professional_Plus_2016_x64_Ru_Setup.iso",
-            "img_url": "/img/ico/office.svg",
+            "img_url": "img/ico/office.svg",
             "isDirectLink": false
         },
         {
@@ -53,33 +53,33 @@
         {
             "name": "Movavi Video Editor",
             "url": "/MovaviVideoEditor.rar",
-            "img_url": "/img/ico/movavi.png",
+            "img_url": "img/ico/movavi.png",
             "isDirectLink": false
         }
     ],
     "utilities": [
         {
             "name": "Microsoft Visual C++",
-            "img_url": "/img/ico/visual.svg",
+            "img_url": "img/ico/visual.svg",
             "url": "/MicrosoftVisual.rar",
             "isDirectLink": false
         },
         {
             "name": "Aida 64",
             "url": "/AIDA64.rar",
-            "img_url": "/img/ico/aida64.png",
+            "img_url": "img/ico/aida64.png",
             "isDirectLink": false
         },
         {
             "name": "DirectX",
             "url": "https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe",
-            "img_url": "/img/ico/directx.png",
+            "img_url": "img/ico/directx.png",
             "isDirectLink": true
         },
         {
             "name": "FurMark",
             "url": "/FurMark.rar",
-            "img_url": "/img/ico/furmark.jpg",
+            "img_url": "img/ico/furmark.jpg",
             "isDirectLink": false
         }
     ],
