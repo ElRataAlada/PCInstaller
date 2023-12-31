@@ -81,9 +81,21 @@
             "url": "/FurMark.rar",
             "img_url": "img/ico/furmark.jpg",
             "isDirectLink": false
+        },
+        {
+            "name": "WinRAR",
+            "img_url": "img/ico/winrar.svg",
+            "url": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-602ru.exe",
+            "isDirectLink": true
         }
     ],
     "messaging": [
+        {
+            "name": "WhatsApp",
+            "img_url": "img/ico/whatsapp.svg",
+            "url": "ms-windows-store://pdp/?productid=9NKSQGP7F2NH&mode=mini&cid=www_test",
+            "isDirectLink": true
+        },
         {
             "name": "Telegram",
             "img_url": "img/ico/telegram.svg",
@@ -112,14 +124,6 @@
             "name": "Viber",
             "img_url": "img/ico/viber.svg",
             "url": "https://download.cdn.viber.com/cdn/desktop/windows/ViberSetup.exe",
-            "isDirectLink": true
-        }
-    ],
-    "compression": [
-        {
-            "name": "WinRAR",
-            "img_url": "img/ico/winrar.svg",
-            "url": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-602ru.exe",
             "isDirectLink": true
         }
     ],
@@ -154,6 +158,64 @@
             "name": "Steam",
             "img_url": "img/ico/steam.svg",
             "url": "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe",
+            "isDirectLink": true
+        }
+    ],
+    "adobe": [
+        {
+            "name": "Photoshop 2024",
+            "img_url": "img/ico/photoshop.svg",
+            "url": "https://rutracker.net/forum/dl.php?t=6456683",
+            "isDirectLink": true
+        },
+        {
+            "name": "Premiere Pro 2024",
+            "img_url": "img/ico/premiere.svg",
+            "url": "https://rutracker.net/forum/dl.php?t=6453320",
+            "isDirectLink": true
+        },
+        {
+            "name": "After Effects 2024",
+            "img_url": "img/ico/after_effects.svg",
+            "url": "https://rutracker.net/forum/dl.php?t=6435562",
+            "isDirectLink": true
+        },
+        {
+            "name": "Illustrator 2024",
+            "img_url": "img/ico/illustrator.svg",
+            "url": "https://rutracker.net/forum/dl.php?t=6456684",
+            "isDirectLink": true
+        }
+    ],
+    "3D Development": [
+        {
+            "name": "Blender",
+            "img_url": "img/ico/blender.svg",
+            "url": "ms-windows-store://pdp?rtc=1&hl=uk-ua&gl=ua&productid=9PP3C07GTVRH&mode=mini&pos=0%2C0%2C1920%2C1032&referrer=storeforweb/",
+            "isDirectLink": true
+        },
+        {
+            "name": "ZBrush",
+            "img_url": "img/ico/zbrush.svg",
+            "url": "https://rutracker.net/forum/dl.php?t=6308770",
+            "isDirectLink": true
+        },
+        {
+            "name": "3DS Max",
+            "img_url": "img/ico/3dsmax.svg",
+            "url": "https://rutracker.net/forum/dl.php?t=6442329",
+            "isDirectLink": true
+        },
+        {
+            "name": "Marmoset",
+            "img_url": "img/ico/marmoset.svg",
+            "url": "https://rutracker.net/forum/dl.php?t=5984287",
+            "isDirectLink": true
+        },
+        {
+            "name": "SolidWorks",
+            "img_url": "img/ico/solidworks.jpg",
+            "url": "https://rutracker.net/forum/dl.php?t=6432128",
             "isDirectLink": true
         }
     ],
