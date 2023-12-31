@@ -15,7 +15,7 @@
         {
             "name": "Opera",
             "img_url": "img/ico/opera.svg",
-            "url": "https://ftp.opera.com/pub/opera_gx/100.0.4815.44/win/Opera_GX_100.0.4815.44_Setup.exe",
+            "url": "ms-windows-store://pdp?hl=ru-ru&gl=ru&productid=XP8CF6S8G2D5T6&mode=mini&pos=0%2C0%2C1920%2C1032&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F/",
             "isDirectLink": true
         }
     ],
@@ -24,6 +24,12 @@
             "name": "Spotify",
             "img_url": "img/ico/spotify.svg",
             "url": "https://download.scdn.co/SpotifySetup.exe",
+            "isDirectLink": true
+        },
+        {
+            "name": "SoundCloud",
+            "img_url": "img/ico/soundcloud.svg",
+            "url": "ms-windows-store://pdp?hl=ru-ru&gl=ru&productid=9NVJBT29B36L&mode=mini&pos=0%2C0%2C1920%2C1032&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F/",
             "isDirectLink": true
         },
         {
@@ -99,31 +105,31 @@
         {
             "name": "Telegram",
             "img_url": "img/ico/telegram.svg",
-            "url": "https://telegram.org/dl/desktop/win",
+            "url": "ms-windows-store://pdp?hl=ru-ru&gl=ru&productid=9NZTWSQNTD0S&mode=mini&pos=0%2C0%2C1920%2C1032&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F/",
             "isDirectLink": true
         },
         {
             "name": "Discord",
             "img_url": "img/ico/discord.svg",
-            "url": "https://discord.com/api/download?platform=win",
+            "url": "ms-windows-store://pdp?hl=ru-ru&gl=ru&productid=XPDC2RH70K22MN&mode=mini&pos=0%2C0%2C1920%2C1032&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F/",
             "isDirectLink": true
         },
         {
             "name": "Skype",
             "img_url": "img/ico/skype.svg",
-            "url": "https://go.skype.com/windows.desktop.download",
+            "url": "ms-windows-store://pdp?hl=ru-ru&gl=ru&productid=9WZDNCRFJ364&mode=mini&pos=0%2C0%2C1920%2C1032&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F/",
             "isDirectLink": true
         },
         {
             "name": "Zoom",
             "img_url": "img/ico/zoom.svg",
-            "url": "https://zoom.us/client/latest/ZoomInstaller.exe",
+            "url": "ms-windows-store://pdp?hl=ru-ru&gl=ru&productid=XP99J3KP4XZ4VV&mode=mini&pos=0%2C0%2C1920%2C1032&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F/",
             "isDirectLink": true
         },
         {
             "name": "Viber",
             "img_url": "img/ico/viber.svg",
-            "url": "https://download.cdn.viber.com/cdn/desktop/windows/ViberSetup.exe",
+            "url": "ms-windows-store://pdp?hl=ru-ru&gl=ru&productid=XPFM5P5KDWF0JP&mode=mini&pos=0%2C0%2C1920%2C1032&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F/",
             "isDirectLink": true
         }
     ],
