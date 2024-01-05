@@ -89,6 +89,12 @@
             "isDirectLink": false
         },
         {
+            "name": "MSI Afterburner",
+            "url": "https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip?__token__=exp=1704587088~acl=/*~hmac=09fc22481967e9228a669ea4a975dd1bf55e3e71f03552df0f050cfe7e927eff",
+            "img_url": "img/ico/afterburner.svg",
+            "isDirectLink": true
+        },
+        {
             "name": "WinRAR",
             "img_url": "img/ico/winrar.svg",
             "url": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-602ru.exe",
