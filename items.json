@@ -9,7 +9,7 @@
         {
             "name": "Firefox",
             "img_url": "img/ico/firefox.svg",
-            "url": "https://download.mozilla.org/?product=firefox-stub&os=win&lang=ru",
+            "url": "ms-windows-store://pdp?hl=uk-ua&gl=us&productid=9NZVDKPMR9RD&mode=mini&pos=953%2C0%2C974%2C1039&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F/",
             "isDirectLink": true
         },
         {
@@ -34,7 +34,7 @@
         },
         {
             "name": "Microsoft Office",
-            "url": "https://cdn.soft-download.ru?s=wIK1qDkamaVPkMsttcXYJw&pf=MS_Office_Professional_Plus_2016_x64_Ru_Setup.iso&pt=Microsoft Office 2016 Windows&src=softcatalog.io&ref=&cid=1647515379.1702677384",
+            "url": "https://drive.usercontent.google.com/download?id=1c70TxVYs9M4j6LfNQxZnZZ-Be18awfQu&export=download&authuser=3&confirm=t&uuid=6ac00f6d-f45f-48ac-82a8-f2cf84a81b16&at=APZUnTXTvx-57FwB3I9CU-MEQecu:1705148996476",
             "img_url": "img/ico/office.svg",
             "isDirectLink": true
         },
@@ -90,9 +90,9 @@
         },
         {
             "name": "MSI Afterburner",
-            "url": "https://download.msi.com/uti_exe/vga/MSIAfterburnerSetup.zip?__token__=exp=1704587088~acl=/*~hmac=09fc22481967e9228a669ea4a975dd1bf55e3e71f03552df0f050cfe7e927eff",
+            "url": "/MSIAfterburner.zip",
             "img_url": "img/ico/afterburner.svg",
-            "isDirectLink": true
+            "isDirectLink": false
         },
         {
             "name": "WinRAR",
@@ -190,12 +190,6 @@
             "name": "After Effects 2024",
             "img_url": "img/ico/after_effects.svg",
             "url": "https://rutracker.net/forum/dl.php?t=6435562",
-            "isDirectLink": true
-        },
-        {
-            "name": "Illustrator 2024",
-            "img_url": "img/ico/illustrator.svg",
-            "url": "https://rutracker.net/forum/dl.php?t=6456684",
             "isDirectLink": true
         }
     ],
