@@ -55,21 +55,9 @@
             "img_url": "img/ico/quicklook.png",
             "url": "ms-windows-store://pdp?cid=msft_web_gamesforwindows_chart&hl=ru-ru&gl=ru&productid=9NV4BS3L1H4S&mode=mini&pos=0%2C0%2C1920%2C1032&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F/",
             "isDirectLink": true
-        },
-        {
-            "name": "Movavi Video Editor",
-            "url": "/MovaviVideoEditor.rar",
-            "img_url": "img/ico/movavi.png",
-            "isDirectLink": false
         }
     ],
-    "utilities": [
-        {
-            "name": "Microsoft Visual C++",
-            "img_url": "img/ico/visual.svg",
-            "url": "/MicrosoftVisual.rar",
-            "isDirectLink": false
-        },
+    "Monitoring": [
         {
             "name": "Aida 64",
             "url": "/AIDA64.rar",
@@ -77,10 +65,10 @@
             "isDirectLink": false
         },
         {
-            "name": "DirectX",
-            "url": "https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe",
-            "img_url": "img/ico/directx.png",
-            "isDirectLink": true
+            "name": "Crystal Disk Info",
+            "url": "/CrystalDiskInfo.zip",
+            "img_url": "img/ico/CrystalDiskInfo.png",
+            "isDirectLink": false
         },
         {
             "name": "FurMark",
@@ -93,11 +81,121 @@
             "url": "/MSIAfterburner.zip",
             "img_url": "img/ico/afterburner.svg",
             "isDirectLink": false
+        }
+    ],
+    "utilities": [
+        {
+            "name": "Microsoft Visual C++",
+            "img_url": "img/ico/visual.svg",
+            "url": "/MicrosoftVisual.rar",
+            "isDirectLink": false
         },
+        {
+            "name": "DirectX",
+            "url": "https://download.microsoft.com/download/1/7/1/1718CCC4-6315-4D8E-9543-8E28A4E18C4C/dxwebsetup.exe",
+            "img_url": "img/ico/directx.png",
+            "isDirectLink": true
+        },
+
         {
             "name": "WinRAR",
             "img_url": "img/ico/winrar.svg",
             "url": "https://www.win-rar.com/fileadmin/winrar-versions/winrar/winrar-x64-602ru.exe",
+            "isDirectLink": true
+        }
+    ],
+
+    "torrent": [
+        {
+            "name": "qBittorrent",
+            "img_url": "img/ico/qbittorrent.svg",
+            "url": "https://kumisystems.dl.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.3.5/qbittorrent_4.3.5_x64_setup.exe",
+            "isDirectLink": true
+        },
+        {
+            "name": "MediaGet",
+            "img_url": "img/ico/mediaget.svg",
+            "url": "https://mediaget.com/ld/get_installer.php?os=windows",
+            "isDirectLink": true
+        },
+        {
+            "name": "uTorrent",
+            "img_url": "img/ico/utorrent.svg",
+            "url": "https://download-new.utorrent.com/endpoint/utorrent/os/windows/track/stable/",
+            "isDirectLink": true
+        }
+    ],
+    "games": [
+        {
+            "name": "Epic Games",
+            "img_url": "img/ico/epicgames.svg",
+            "url": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi",
+            "isDirectLink": true
+        },
+        {
+            "name": "Steam",
+            "img_url": "img/ico/steam.svg",
+            "url": "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe",
+            "isDirectLink": true
+        }
+    ],
+    "adobe": [
+        {
+            "name": "Photoshop 2024",
+            "img_url": "img/ico/photoshop.svg",
+            "url": "https://rutracker.net/forum/dl.php?t=6456683",
+            "isDirectLink": true
+        },
+        {
+            "name": "Premiere Pro 2024",
+            "img_url": "img/ico/premiere.svg",
+            "url": "https://rutracker.net/forum/dl.php?t=6453320",
+            "isDirectLink": true
+        },
+        {
+            "name": "After Effects 2024",
+            "img_url": "img/ico/after_effects.svg",
+            "url": "https://rutracker.net/forum/dl.php?t=6435562",
+            "isDirectLink": true
+        }
+    ],
+    "other programs": [
+        {
+            "name": "Iruin Vebcam",
+            "img_url": "img/ico/iruin.png",
+            "url": "https://1758658189.rsc.cdn77.org/IriunWebcam-2.8.2.exe",
+            "isDirectLink": true
+        },
+        {
+            "name": "Radmin VPN",
+            "img_url": "img/ico/radmin.svg",
+            "url": "https://download.radmin-vpn.com/download/files/Radmin_VPN_1.4.4642.1.exe",
+            "isDirectLink": true
+        },
+        {
+            "name": "Any Desk",
+            "img_url": "img/ico/anydesk.png",
+            "url": "https://download.anydesk.com/AnyDesk.exe",
+            "isDirectLink": true
+        }
+    ],
+    "development": [
+        {
+            "name": "Visual Studio Code",
+            "img_url": "img/ico/vscode.svg",
+            "url": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
+            "isDirectLink": true
+        },
+        {
+            "name": "Visual Studio",
+            "img_url": "img/ico/visual_studio.svg",
+            "url": "https://aka.ms/vs/16/release/vs_enterprise.exe",
+            "isDirectLink": true
+        },
+        {
+            "name": "Git",
+            "img_url": "img/ico/git.svg",
+            "url": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe",
             "isDirectLink": true
         }
     ],
@@ -136,132 +234,6 @@
             "name": "Viber",
             "img_url": "img/ico/viber.svg",
             "url": "ms-windows-store://pdp?hl=ru-ru&gl=ru&productid=XPFM5P5KDWF0JP&mode=mini&pos=0%2C0%2C1920%2C1032&referrer=storeforweb&source=https%3A%2F%2Fwww.google.com%2F/",
-            "isDirectLink": true
-        }
-    ],
-    "torrent": [
-        {
-            "name": "MediaGet",
-            "img_url": "img/ico/mediaget.svg",
-            "url": "https://mediaget.com/ld/get_installer.php?os=windows",
-            "isDirectLink": true
-        },
-        {
-            "name": "uTorrent",
-            "img_url": "img/ico/utorrent.svg",
-            "url": "https://download-new.utorrent.com/endpoint/utorrent/os/windows/track/stable/",
-            "isDirectLink": true
-        },
-        {
-            "name": "qBittorrent",
-            "img_url": "img/ico/qbittorrent.svg",
-            "url": "https://kumisystems.dl.sourceforge.net/project/qbittorrent/qbittorrent-win32/qbittorrent-4.3.5/qbittorrent_4.3.5_x64_setup.exe",
-            "isDirectLink": true
-        }
-    ],
-    "games": [
-        {
-            "name": "Epic Games",
-            "img_url": "img/ico/epicgames.svg",
-            "url": "https://launcher-public-service-prod06.ol.epicgames.com/launcher/api/installer/download/EpicGamesLauncherInstaller.msi",
-            "isDirectLink": true
-        },
-        {
-            "name": "Steam",
-            "img_url": "img/ico/steam.svg",
-            "url": "https://cdn.cloudflare.steamstatic.com/client/installer/SteamSetup.exe",
-            "isDirectLink": true
-        }
-    ],
-    "adobe": [
-        {
-            "name": "Photoshop 2024",
-            "img_url": "img/ico/photoshop.svg",
-            "url": "https://rutracker.net/forum/dl.php?t=6456683",
-            "isDirectLink": true
-        },
-        {
-            "name": "Premiere Pro 2024",
-            "img_url": "img/ico/premiere.svg",
-            "url": "https://rutracker.net/forum/dl.php?t=6453320",
-            "isDirectLink": true
-        },
-        {
-            "name": "After Effects 2024",
-            "img_url": "img/ico/after_effects.svg",
-            "url": "https://rutracker.net/forum/dl.php?t=6435562",
-            "isDirectLink": true
-        }
-    ],
-    "3D Development": [
-        {
-            "name": "Blender",
-            "img_url": "img/ico/blender.svg",
-            "url": "ms-windows-store://pdp?rtc=1&hl=uk-ua&gl=ua&productid=9PP3C07GTVRH&mode=mini&pos=0%2C0%2C1920%2C1032&referrer=storeforweb/",
-            "isDirectLink": true
-        },
-        {
-            "name": "ZBrush",
-            "img_url": "img/ico/zbrush.svg",
-            "url": "https://rutracker.net/forum/dl.php?t=6308770",
-            "isDirectLink": true
-        },
-        {
-            "name": "3DS Max",
-            "img_url": "img/ico/3dsmax.svg",
-            "url": "https://rutracker.net/forum/dl.php?t=6442329",
-            "isDirectLink": true
-        },
-        {
-            "name": "Marmoset",
-            "img_url": "img/ico/marmoset.svg",
-            "url": "https://rutracker.net/forum/dl.php?t=5984287",
-            "isDirectLink": true
-        },
-        {
-            "name": "SolidWorks",
-            "img_url": "img/ico/solidworks.jpg",
-            "url": "https://rutracker.net/forum/dl.php?t=6432128",
-            "isDirectLink": true
-        }
-    ],
-    "development": [
-        {
-            "name": "Visual Studio Code",
-            "img_url": "img/ico/vscode.svg",
-            "url": "https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user",
-            "isDirectLink": true
-        },
-        {
-            "name": "Visual Studio",
-            "img_url": "img/ico/visual_studio.svg",
-            "url": "https://aka.ms/vs/16/release/vs_enterprise.exe",
-            "isDirectLink": true
-        },
-        {
-            "name": "Git",
-            "img_url": "img/ico/git.svg",
-            "url": "https://github.com/git-for-windows/git/releases/download/v2.43.0.windows.1/Git-2.43.0-64-bit.exe",
-            "isDirectLink": true
-        }
-    ],
-    "other": [
-        {
-            "name": "Iruin Vebcam",
-            "img_url": "img/ico/iruin.png",
-            "url": "https://1758658189.rsc.cdn77.org/IriunWebcam-2.8.2.exe",
-            "isDirectLink": true
-        },
-        {
-            "name": "Radmin VPN",
-            "img_url": "img/ico/radmin.svg",
-            "url": "https://download.radmin-vpn.com/download/files/Radmin_VPN_1.4.4642.1.exe",
-            "isDirectLink": true
-        },
-        {
-            "name": "Any Desk",
-            "img_url": "img/ico/anydesk.png",
-            "url": "https://download.anydesk.com/AnyDesk.exe",
             "isDirectLink": true
         }
     ]
